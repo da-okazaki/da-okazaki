@@ -14,20 +14,36 @@
   </a>
 </p>
 
-<h3>Language</h3>
+<h3>Language (Frontend)</h3>
 <p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<p>
+  <img alt="css" src="https://img.shields.io/badge/-CSS-FFFF00ffff00?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="swift" src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift&logoColor=white" />
+  <img alt="swift" src="https://img.shields.io/badge/-ObjectiveC-black?style=flat-square&logo=objective-c&logoColor=white" />
+<p
 
-<h3>Framework</h3>
+<h3>Framework (Frontend)</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<p>
 
+<h3>Language (Backend)</h3>
+<p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-a9a9a9?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-F7B93E?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-311C87?style=flat-square&logo=java&logoColor=white" />
+<p>
+
+<h3>Framework (Backend)</h3>
+<p>
+  <img alt="Express" src="https://img.shields.io/badge/-Express-green?style=flat-square&logo=express&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=Flask&logoColor=white" />
 <p>
 
 <h3>Cloud</h3>
@@ -51,8 +67,6 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-
 
 <!--
 **da-okazaki/da-okazaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
